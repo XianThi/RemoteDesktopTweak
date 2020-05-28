@@ -1,0 +1,9 @@
+Package: com.mavris.mmlanscan
+Name: MMLanScan
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome framework of some sort!!
+Maintainer: XianThi
+Author: XianThi
+Section: System
+Tag: role::developer
